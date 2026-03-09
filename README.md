@@ -4,9 +4,9 @@ A web-based electricity consumption calculator built with vanilla PHP and Bootst
 This project is a simple web-based electricity calculator built using *Vanilla PHP* and *Bootstrap*. The system calculates electricity power, energy consumption (kWh), and total electricity cost based on user input values for voltage, current, usage hours, and electricity rate.
 
 ##Project Preview and Results
-![Electricity Calculator Preview](Preview.png)
+![Electricity Calculator Preview](Preview%20Exp.png)
 
-![Electricity Calculator Result Preview](Result.png)
+![Electricity Calculator Result Preview](Result%20Exp.png)
 
 ## Features
 
